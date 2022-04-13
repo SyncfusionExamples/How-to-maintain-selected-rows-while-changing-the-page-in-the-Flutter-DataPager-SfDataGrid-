@@ -1,4 +1,4 @@
-# How-to-maintain-selected-rows-while-changing-the-page-in-the-Flutter-DataPager-(SfDataGrid)?
+# How-to-maintain-selected-rows-while-changing-the-page-in-the-Flutter-DataPager-SfDataGrid-
 
 The Syncfusion [Flutter DataTable](https://help.syncfusion.com/flutter/datagrid/overview) supports maintaining the selected rows collection within a page. While navigating to another page, the previously selected rows are not maintained. 
 
